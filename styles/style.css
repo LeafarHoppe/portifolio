@@ -85,7 +85,7 @@ body{
 
 }
 
-.apresentacao__links__apresentacao:hover{
+.apresentacao__links__navegacao:hover{
     background-color: var(--cor-hover);
 }
 
